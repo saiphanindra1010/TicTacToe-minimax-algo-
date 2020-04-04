@@ -19,7 +19,7 @@ Such games are called games of perfect information because it is possible to see
 
 ## Tools
 
--  Sublime text
+-  visual studio code
 - [cssgradient](https://cssgradient.io/) : free tool that lets you create a gradient background for websites. Besides being a css gradient generator, the site is also chock-full of colorful content about gradients from technical articles to real life gradient examples like Stripe and Instagram.
 
 
