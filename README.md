@@ -1,4 +1,4 @@
-view this project in CodePen:https://codepen.io/saiphanindra1010/pen/GRJapYo
+
 # About the project    
 > This is a TicTacToe game made using html,css and javascript I used Minimax Algorithm to make the computer play with the user
 
