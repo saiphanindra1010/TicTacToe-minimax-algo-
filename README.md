@@ -1,7 +1,6 @@
 
 # About the project    
-> This is a TicTacToe game made using html,css and javascript I used Minimax Algorithm to make the computer play with the user
-
+  This is a TicTacToe game made using html,css and javascript I used Minimax Algorithm to make the computer play with the user
 # What is Minimax Algorithm 
 Minimax is a decision rule used in artificial intelligence it's a recursive algorithm which is used to choose an optimal move for a player assuming that the other player is also playing optimally.
 It is used in games such as tic-tac-toe, go, chess, Isola, checkers, and many other two-player games.
